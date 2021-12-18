@@ -1,33 +1,30 @@
 
-# Hi There 👋 , I'm Muhammad Zaen!
 
-### Tools:
+## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MaFia_Tobatz) 
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=Zaen-ubot&color=blue&style=flat-square&label=Profile+Views)
+### Stats:
+<p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api?username=Zaen-ubot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaen-ubot&theme=radical&layout=compact"></a></p> 
+
+
 <p>
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+    <img src=aext-gray?&logo=Sublime-Text" />
 </p>
 
-### Stats:
+### Let's connect!
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Mafia_Tobatz&hide=issues&show_icons=true&hide_border=true&title_color=000" />
+    <a href="https://t.me/Mafia_Tobatz" target="blank"><img src="https://img.shields.io/badge/@Mafia_Tobatz-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/zaen768_" target="blank"><img src="https://img.shields.io/badge/@zaen768_-30302f?style=flat&logo=instagram" /></a>
 </p>
-
-### My Social Media
-<p>
-    <a href="https://facebook.com/pwn.id" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
-    <a href="https://mafia_tobatz.medium.com/" target="blank"><img src="https://img.icons8.com/nolan/55/medium-new.png" /></a>
-    <a href="https://t.me/Mafia_Tobatz" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
-    <a href="https://instagram.com/zaen768_" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
-    <a href="https://twitter.com/zaen768_" target="blank"><img src="https://img.icons8.com/nolan/55/twitter.png" /></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Zaen-ubot&margin-w=5&margin-h=5)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=phaticusthiccy)
 
 </details>
 
@@ -37,4 +34,3 @@
 ![Metrics](https://metrics.lecoq.io/Zaen-ubot?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
