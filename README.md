@@ -3,7 +3,7 @@
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MaFia_Tobatz) 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Zaen-ubot&color=blue&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=Zaen-ubot&color=red&style=flat-square&label=Profile+Views)
 ### Stats:
 <p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api?username=Zaen-ubot&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaen-ubot&theme=radical&layout=compact"></a></p> 
