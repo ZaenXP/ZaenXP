@@ -3,10 +3,10 @@
 ## 📨 Contact me on [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/MaFia_Tobatz) 
 <br>
 
-![Profile views](https://komarev.com/ghpvc/?username=Zaen-ubot&color=red&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=ZaenXP&color=red&style=flat-square&label=Profile+Views)
 ### Stats:
-<p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api?username=Zaen-ubot&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/Zaen-ubot"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaen-ubot&theme=radical&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/ZaenXP"><img src="https://github-readme-stats.vercel.app/api?username=Zaen-ubot&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ZaenXP"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaen-ubot&theme=radical&layout=compact"></a></p> 
 
 
 <p>
@@ -31,6 +31,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Zaen-ubot?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/ZaenXP?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
